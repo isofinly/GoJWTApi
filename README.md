@@ -1,1 +1,1 @@
-# PurpleHack
+# Golang JWT Api Template
